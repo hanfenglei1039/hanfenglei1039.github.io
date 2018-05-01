@@ -26,7 +26,11 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+# skip_render:
+
+# hanfenglei start
+skip_render: README.md
+# hanfengeli end
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -82,3 +86,11 @@ deploy:
   type: git
   repo: git@github.com:hanfenglei1039/hanfenglei1039.github.io.git
   branch: master
+
+# hanfenglei start
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+# heanfenglei end
