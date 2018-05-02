@@ -7,6 +7,49 @@ tags:
 笔记而已
 <!-- more -->
 
+## 网站
+1. 正则匹配
+    http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html
+1. 跨域
+    https://zhuanlan.zhihu.com/p/25778815?group_id=825753774160252928
+1. bind、apply、call
+    https://blog.csdn.net/u014267183/article/details/52610600
+    https://blog.csdn.net/A_dangdang/article/details/50986168
+1. typings安装、cnpm安装
+    https://www.cnblogs.com/IPrograming/archive/2016/04/30/VsCodeTypings.html
+1. ESlint
+    https://www.cnblogs.com/IPrograming/p/VsCodeESLint.html
+1. Promise讲解
+    https://www.cnblogs.com/lvdabao/p/es6-promise-1.html
+1. async/await
+    https://www.cnblogs.com/kazetotori/p/6043983.html
+    async、await获取电影海报
+        http://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6
+1. 代码热更新
+    https://cnodejs.org/topic/5977fe1068aa87c774e5ebf2
+    通过插件实现代码热更新
+        https://www.cnblogs.com/benpaodexiaopangzi/p/5856642.html
+    http://fex.baidu.com/blog/2015/05/nodejs-hot-swapping/
+1. 搭建博客
+    https://www.zhihu.com/question/20962496
+    https://www.ezlippi.com/blog/2015/03/github-pages-blog.html
+1. https://www.jianshu.com/p/834d7cc0668d
+1. https://hexo.io/zh-cn/docs/
+    https://www.jianshu.com/p/d1fdf3316fc0
+    获取github.io的ip
+        https://jingyan.baidu.com/article/3c343ff70fb6e60d3779632f.html
+1. aliyun
+    https://dc.console.aliyun.com/next/index#/domain/list/all-domain
+    https://help.aliyun.com/knowledge_detail/39783.html?spm=5176.200122.n2.4.lB9Hsw
+    zhanghao:
+        hanfengleigithub/hanfengleixxxxxxxxxxxxxxxxxxxx1039
+1. https://www.jianshu.com/p/3217ecf4a789
+1. hexo d 失败
+    https://www.cnblogs.com/xsilence/p/6001938.html
+1. hexo的next主题个性设计
+    https://www.jianshu.com/p/f054333ac9e6
+    http://theme-next.iissnan.com/theme-settings.html  官方
+
 ## 冒泡排序：
 >&#160; &#160; &#160; &#160;比较相邻的两个数，如果前一个数大于后一个数，就将这两个数换位置。每一次遍历都会将本次遍历最大的数冒泡到最后。
 >&#160; &#160; &#160; &#160;为了将n个数排好序，需要n-1次遍历。 如果某次遍历中，没有调整任何两个相邻的数的位置关系，说明此时数组已排好序，可以结束程序。
