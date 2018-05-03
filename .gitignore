@@ -7,8 +7,8 @@ public/
 .deploy*/
 
 themes/*
-!themes/languages/*
-!themes/layout/*
-!themes/scripts/*
-!themes/source/*
-!themes/_config.yml
+!themes/next/languages/*
+!themes/next/layout/*
+!themes/next/scripts/*
+!themes/next/source/*
+!themes/next/_config.yml
