@@ -5,3 +5,10 @@ db.json
 node_modules/
 public/
 .deploy*/
+
+themes/*
+!themes/languages/*
+!themes/layout/*
+!themes/scripts/*
+!themes/source/*
+!themes/_config.yml
