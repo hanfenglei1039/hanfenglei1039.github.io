@@ -5,7 +5,6 @@ tags:
 ---
 
 git常用命令
-<!-- more -->
 
 ![](/uploads/git-jianjie.png)
 git库简介
@@ -14,6 +13,8 @@ git库简介
 * Repository：本地仓库
 * Remote： 远程仓库
 
+
+<!-- more -->
 
 ## 新建代码库
 ```js
