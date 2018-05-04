@@ -4,9 +4,10 @@ date: 2018-05-03 19:00:00
 tags:
 ---
 
+git常用命令
 <!-- more -->
 
-![简介](/uploads/git-jianjie.png)
+![](/uploads/git-jianjie.png)
 git库简介
 * Workspace: 工作区
 * Index/Stage: 暂存区
