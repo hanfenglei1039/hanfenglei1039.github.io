@@ -7,8 +7,12 @@ public/
 .deploy*/
 
 themes/*
+<<<<<<< HEAD
 !themes/next/languages/*
 !themes/next/layout/*
 !themes/next/scripts/*
 !themes/next/source/*
 !themes/next/_config.yml
+=======
+!themes/next
+>>>>>>> b7a18fb7624a561955ebfba1a95c0b7acb04ba40
