@@ -4,9 +4,9 @@ date: 2018-05-03 22:04:26
 tags:
 ---
 
+.gitignore文件语法
 <!-- more -->
 
-.gitignore文件语法
 ```bash
 "#"号 为注释 – 将被 Git 忽略
 *.a       # 忽略所有 .a 结尾的文件
