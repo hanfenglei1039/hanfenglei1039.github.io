@@ -1,6 +1,6 @@
 ---
-title: note_0629
-date: 2018-07-02 09:48:29
+title: kaikeba_0629
+date:
 tags:
 ---
 kaikeba
